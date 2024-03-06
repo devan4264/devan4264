@@ -1,8 +1,12 @@
 ### Hi there 👋 
 ### My name is Devan Bush
-+ ==========================================================================
+
 ### I am an IT Student at UNA
-+ ==========================================================================
+
++ I am Currently a senior
++ I live in Florence, AL
++ I am currently Learning Html, JavaScript, and CSS
++ You can contact me by my email [dbush1@una.edu](mailto:dbush1@una.edu)
 
 
 
