@@ -1,4 +1,16 @@
-### Hi there 👋 My name is Devan Bush
+### Hi there 👋 
+### My name is Devan Bush
+==========================================================================
+### I am an IT Student at UNA
+==========================================================================
+
+
+
+
+
+
+
+
 
 <!--
 **devan4264/devan4264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
